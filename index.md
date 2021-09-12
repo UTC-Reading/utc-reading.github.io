@@ -12,7 +12,7 @@ We want to run a TV as an advertising screen on the computer floor. Idea is to u
 
 Build a receiver to run Flightradar24's Pi24 client to track flights within 200-400 miles and automatically share data with Flightradar24. You can track flights directly off your Pi24 device.
 
-[Flightradar24 | Build your own ADS-B receiver](https://www.flightradar24.com/build-your-own)
+[Flightradar24 \| Build your own ADS-B receiver](https://www.flightradar24.com/build-your-own)
 
 ### SSTV
 
