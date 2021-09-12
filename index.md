@@ -4,6 +4,8 @@ title: The Official UTC Reading Github Organisation
 
 ---
 
+# The Official UTC Reading Github Organisation
+
 ![](https://nitter.net/pic/profile_banners%2F543293063%2F1441704767%2F1500x500)
 
 ## Projects
@@ -16,7 +18,7 @@ We want to run a TV as an advertising screen on the computer floor. Idea is to u
 
 Build a receiver to run Flightradar24's Pi24 client to track flights within 200-400 miles and automatically share data with Flightradar24. You can track flights directly off your Pi24 device.
 
-[Flightradar24 | Build your own ADS-B receiver](https://www.flightradar24.com/build-your-own)
+[Flightradar24 Build your own ADS-B receiver](https://www.flightradar24.com/build-your-own)
 
 ### SSTV
 
@@ -93,4 +95,4 @@ For this project, you'll need the Falcon Pi Player controller software installed
 
 The project also requires some DIY as you'll need to house the Pi and its connectors in a box under your tree. This also supports the screens for your projected video. It's worth noting that this project might not be suitable for some homes and, given all the additional hardware you'll need, it's also a little on the expensive side.
 
-And basically anything from [Tom's Hardware | Best Rasperry Pi Projects](https://www.tomshardware.com/uk/features/best-raspberry-pi-projects/1)
+And basically anything from [Tom's Hardware Best Rasperry Pi Projects](https://www.tomshardware.com/uk/features/best-raspberry-pi-projects/1)
